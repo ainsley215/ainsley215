@@ -1,4 +1,8 @@
-# Hi there, I'm Annisa Uswatul Khasanah! 👋
+<div align="center">
+  <img src="./Miniecraft.gif" width="100%" alt="Minecraft Banner">
+</div>
+
+<h1 align="center">Hi there, I'm Annisa Uswatul Khasanah! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5555&center=true&vCenter=true&width=435&lines=Mobile+Developer;Frontend+Enthusiast;Java+%7C+Flutter+%7C+Laravel;Always+Learning+New+Things" alt="Typing SVG" />
@@ -6,7 +10,7 @@
 
 ---
 
-<!-- Bagian ABOUT ME dibuat lebih ringkas dan menarik -->
+<!-- Bagian ABOUT ME -->
 ## 🚀 About Me
 
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ainsley215&theme=radical" width="350"/>
@@ -24,7 +28,7 @@ I'm a passionate **Mobile & Web Developer** focused on building clean, user-frie
 
 ---
 
-<!-- TECH STACK disusun dalam tabel agar rapi -->
+<!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
 ### **Core Technologies**
@@ -37,9 +41,10 @@ I'm a passionate **Mobile & Web Developer** focused on building clean, user-frie
 | **Backend & DB** | ![Laravel](https://img.shields.io/badge/Laravel-FF5555?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-FF5555?style=flat-square&logo=mysql&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF5555?style=flat-square&logo=api&logoColor=white) |
 | **Design Tools** | ![Figma](https://img.shields.io/badge/Figma-FF5555?style=flat-square&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-FF5555?style=flat-square&logo=krita&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-FF5555?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-FF5555?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
 ---
 
-<!-- STATISTIK dalam 2 kolom + 1 baris penuh -->
+<!-- STATISTIK -->
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -54,7 +59,7 @@ I'm a passionate **Mobile & Web Developer** focused on building clean, user-frie
 
 ---
 
-<!-- PROYEK dibuat dalam grid 2 kolom yang rapi -->
+<!-- PROYEK -->
 ## 🏆 Featured Projects
 
 <p align="center">
@@ -83,7 +88,7 @@ I'm a passionate **Mobile & Web Developer** focused on building clean, user-frie
       <td width="50%" valign="top">
         <h3>🎮 Other Projects</h3>
         <p>• <a href="https://github.com/ainsley215/Focus-Timer">⏱️ Focus Timer (C++)</a><br>
-           • <a href="https://github.com/ainsley215/game-pixel">🎮 Game Pixel (Godot)</a>
+           • <a href="https://github.com/ainsley215/game-pixel">🎮 Game Pixel (Godot)</a></p>
       </td>
     </tr>
   </table>
@@ -100,7 +105,7 @@ I'm a passionate **Mobile & Web Developer** focused on building clean, user-frie
 
 ---
 
-<!-- FOKUS SAAT INI & KONTAK dalam 2 kolom -->
+<!-- FOKUS SAAT INI & KONTAK -->
 ## 🎯 Current Focus & Connect With Me
 
 <table>
@@ -143,7 +148,7 @@ I'm a passionate **Mobile & Web Developer** focused on building clean, user-frie
 ### ⭐ Visitor Count ⭐
 
 <div align="center">
-  
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fainsley215&label=Visitors&countColor=%23FF5555)
 
 ### Thanks for visiting! 😊
