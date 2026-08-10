@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Miniecraft.gif" width="100%" alt="Minecraft Banner">
+  <img src="./Minecraft.gif" width="100%" alt="Minecraft Banner">
 </div>
 
 <h1 align="center">Hi there, I'm Annisa Uswatul Khasanah! 👋</h1>
